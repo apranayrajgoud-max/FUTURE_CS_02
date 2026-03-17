@@ -1,10 +1,10 @@
-# 🎣 Phishing Email Detection & Awareness Report
+#  Phishing Email Detection & Awareness Report
 
 ![Future Interns](https://img.shields.io/badge/Future%20Interns-Cyber%20Security%20Track-red)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Task](https://img.shields.io/badge/Task-2%20%E2%80%94%20Phishing%20Detection-orange)
 
-## 📌 Overview
+##  Overview
 
 This repository contains the **Phishing Email Detection & Awareness Report**
 prepared as part of the **Future Interns Cyber Security Internship — Task 2**.
@@ -15,7 +15,7 @@ prevention guidelines for employees and businesses.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 - Analyze phishing email samples
 - Identify common phishing indicators
@@ -35,18 +35,18 @@ prevention guidelines for employees and businesses.
 
 ---
 
-## 📧 Emails Analyzed
+##  Emails Analyzed
 
 | # | Email Type | Classification | Risk Level |
 |---|-----------|----------------|------------|
-| 1 | Fake Bank Alert | PHISHING | 🔴 HIGH |
-| 2 | Fake IT Support | PHISHING | 🔴 HIGH |
-| 3 | Fake Package Delivery | PHISHING | 🔴 HIGH |
-| 4 | GitHub Verification Email | SAFE | ✅ NONE |
+| 1 | Fake Bank Alert | PHISHING |  HIGH |
+| 2 | Fake IT Support | PHISHING |  HIGH |
+| 3 | Fake Package Delivery | PHISHING |  HIGH |
+| 4 | GitHub Verification Email | SAFE |  NONE |
 
 ---
 
-## 🔍 Key Phishing Indicators Found
+##  Key Phishing Indicators Found
 
 - Fake or spoofed sender domains
 - Urgency and fear-based language
@@ -57,7 +57,7 @@ prevention guidelines for employees and businesses.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 ```
 FUTURE_CS_02/
 ├── README.md
@@ -88,13 +88,13 @@ The full report includes:
 
 ---
 
-## 🌐 Live Report
+##  Live Report
 
-👉 https://skaredla-ux.github.io/FUTURE_CS_02/
+ https://skaredla-ux.github.io/FUTURE_CS_02/
 
 ---
 
-## 👤 Author
+##  Author
 
 **Alugani Pranay Raj Goud**
 Future Interns — Cyber Security Track
@@ -102,7 +102,7 @@ Future Interns — Cyber Security Track
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 All phishing email samples used in this report are fictional and were
 created solely for educational and awareness purposes. No real email
