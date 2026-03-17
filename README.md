@@ -96,7 +96,7 @@ The full report includes:
 
 ## 👤 Author
 
-**Vinay**
+**Alugani Pranay Raj Goud**
 Future Interns — Cyber Security Track
 [GitHub](https://github.com/apranayrajgoud-max)
 
